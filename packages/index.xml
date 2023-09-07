@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Packages | TidyWearable</title>
+    <link>https://www.tidywearable.org/packages/</link>
+      <atom:link href="https://www.tidywearable.org/packages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Packages</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tidywearable.org/media/icon_hu55b9380fa6a8e062a5880a4507acfc68_163623_512x512_fill_lanczos_center_3.png</url>
+      <title>Packages</title>
+      <link>https://www.tidywearable.org/packages/</link>
+    </image>
+    
+    <item>
+      <title>laggedCor</title>
+      <link>https://www.tidywearable.org/packages/laggedcor/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tidywearable.org/packages/laggedcor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyWearable</title>
+      <link>https://www.tidywearable.org/packages/tidywearable/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tidywearable.org/packages/tidywearable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wearableDataset</title>
+      <link>https://www.tidywearable.org/packages/wearabledatabase/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tidywearable.org/packages/wearabledatabase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

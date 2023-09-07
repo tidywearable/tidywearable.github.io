@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | TidyWearable</title>
+    <link>https://www.tidywearable.org/tags/</link>
+      <atom:link href="https://www.tidywearable.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>https://www.tidywearable.org/media/icon_hu55b9380fa6a8e062a5880a4507acfc68_163623_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://www.tidywearable.org/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
